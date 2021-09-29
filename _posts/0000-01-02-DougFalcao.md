@@ -1,5 +1,5 @@
-yout: slide
+layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I used VIM and it was horrible!
 Use the left arrow to go back!
